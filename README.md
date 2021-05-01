@@ -1,10 +1,5 @@
 ##  Rock_Paper_Scissors game
 
-![Picture](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sciencemag.org%2Fnews%2F2015%2F05%2Frock-paper-scissors-may-explain-evolutionary-games-nature&psig=AOvVaw248as7WQPahdosSP_8ypBu&ust=1619928502023000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjM417Op_ACFQAAAAAdAAAAABAJ)
-
-
-
-
 It is a rock_paper_scissors_game wherein you can play with the system
 
 ## STEP-1:-  REGISTRATION
