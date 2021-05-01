@@ -1,6 +1,6 @@
 ##  Rock_Paper_Scissors game
 
-![Picture](https://github.com/Khushbu-Majithia-261406/261406_Mini_Project_LTTS/picture.jpg)
+![Picture](https://github.com/Khushbu-Majithia-261406/261406_Mini_Project_LTTS/blob/main/Picture.jpg)
 
 It is a rock_paper_scissors_game wherein you can play with the system
 
